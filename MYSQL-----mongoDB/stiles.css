@@ -1,0 +1,18 @@
+
+
+.body{
+    background: linear-gradient(blue,rgb(62, 12, 109), black);
+
+}
+footer{
+    text-align: center;
+    height: 15rem;
+
+    background-color: rgb(3, 3, 31);
+    color: azure;
+}
+.card {
+    background-color: rgb(71, 207, 162);
+    box-shadow: 14px 24px black transparent;
+    color: black;
+}
